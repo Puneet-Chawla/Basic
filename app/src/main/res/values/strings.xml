@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="label1">String:/Sign In</string>
+    <string name="red_string"> RED </string>
+    <string name="green_string"> GREEN </string>
+    <string name="blue_string"> BLUE </string>
+</resources>
